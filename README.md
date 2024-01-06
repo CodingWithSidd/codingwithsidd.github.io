@@ -1,1 +1,0 @@
-Personal Website created for Github-Pages.
