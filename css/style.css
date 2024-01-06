@@ -126,7 +126,7 @@ img {
 .showcase-image {
     position: relative;
     height: 400px;
-    width: 350px;
+    width: 400px;
     z-index: 100;
     animation: slideInFromRight 1s ease-in;
 }
