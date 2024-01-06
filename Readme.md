@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Github Pages website
 
 Template Name: Knight
 Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
